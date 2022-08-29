@@ -14,8 +14,8 @@
 
 ### 2.1. Start Metro bundler:
 
-npx react-native start
+### npx react-native start
 
 ### 2.2. Start application:
 
-npx react-native run-android
+`{javascript} {npx react-native run-android}`
