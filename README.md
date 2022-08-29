@@ -30,11 +30,11 @@ Below are screenshots of the application (only on Android OS).
 
 #### Screenshots:
 
-https://prnt.sc/r-7ad3tOxa5B
-https://prnt.sc/1GgaEm6rElUY
-https://prnt.sc/Zv7u0gAbr2SG
-https://prnt.sc/tfR31JZP8jMZ
-https://prnt.sc/nV0VIhQ7YfDR
-https://prnt.sc/754niH8oS-q1
-https://prnt.sc/uTap2m47foiP
-https://prnt.sc/1mbNAOFDWqvM
+1. https://prnt.sc/r-7ad3tOxa5B
+2. https://prnt.sc/1GgaEm6rElUY
+3. https://prnt.sc/Zv7u0gAbr2SG
+4. https://prnt.sc/tfR31JZP8jMZ
+5. https://prnt.sc/nV0VIhQ7YfDR
+6. https://prnt.sc/754niH8oS-q1
+7. https://prnt.sc/uTap2m47foiP
+8. https://prnt.sc/1mbNAOFDWqvM
