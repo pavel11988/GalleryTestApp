@@ -25,7 +25,8 @@
 On the first load, you will see the spinner while the server is being requested. If the server returns an error, you will see an error message on the screen (ErrorBundler).
 If there is no error, then after a successful request you will get 30 random images, any of which can be opened by simply clicking on it once. Next, a full size screen will open and you will see a back button to return to the gallery screen.
 You can query by word and the server will return up to 30 images for that query. If there are none or the request is incorrect, then the server will return 30 random images (as unsplash does).
-Below are screenshots of the application (Android only).
+
+Below are screenshots of the application (only on Android OS).
 
 #### Screenshots:
 
